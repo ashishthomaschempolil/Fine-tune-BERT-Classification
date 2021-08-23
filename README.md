@@ -5,4 +5,4 @@
 3. Fine-tune BERT for text classification with TensorFlow 2 and TensorFlow Hub
 
 
-This is done on quora insincere text classification dataset available on Kaggle.
+This is done on a small subset of [quora insincere text classification dataset](https://www.kaggle.com/c/quora-insincere-questions-classification/data) available on Kaggle.
